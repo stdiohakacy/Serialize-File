@@ -1,0 +1,10 @@
+C:\Users\Stdioh-Akacy\Desktop\testtest\testtest\bin\Debug\testtest.exe.config
+C:\Users\Stdioh-Akacy\Desktop\Serialize-File\testtest\bin\Debug\testtest.exe.config
+C:\Users\Stdioh-Akacy\Desktop\Serialize-File\testtest\bin\Debug\testtest.exe
+C:\Users\Stdioh-Akacy\Desktop\Serialize-File\testtest\bin\Debug\testtest.pdb
+C:\Users\Stdioh-Akacy\Desktop\Serialize-File\testtest\obj\Debug\testtest.csprojResolveAssemblyReference.cache
+C:\Users\Stdioh-Akacy\Desktop\Serialize-File\testtest\obj\Debug\testtest.Form1.resources
+C:\Users\Stdioh-Akacy\Desktop\Serialize-File\testtest\obj\Debug\testtest.Properties.Resources.resources
+C:\Users\Stdioh-Akacy\Desktop\Serialize-File\testtest\obj\Debug\testtest.csproj.GenerateResource.Cache
+C:\Users\Stdioh-Akacy\Desktop\Serialize-File\testtest\obj\Debug\testtest.exe
+C:\Users\Stdioh-Akacy\Desktop\Serialize-File\testtest\obj\Debug\testtest.pdb
